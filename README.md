@@ -1,1 +1,1 @@
-https://dustinchen26.github.io/Kaohsiung_election
+https://dustinchen26.github.io/election_kaohsiung
